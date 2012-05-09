@@ -1,4 +1,4 @@
 misc-sandbox
 ============
 
-Playground
+Playground - for tests only
